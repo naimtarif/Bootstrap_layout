@@ -1,3 +1,19 @@
-.header{
-	background-color: #F5F6F7;
+/*header start*/
+.header, .hero,  .body, .bar, .footer{
+	background-color: #F5BBC9;
+	padding:20px 0px 10px 0px;
+	margin-bottom: 20px;
+
 }
+.bg{
+	background-color: #9BD0E0;
+	border: 5px solid #348857;
+	min-height: 80px;
+	margin-bottom: 10px;
+}
+
+ .red{
+ 	background-color: red;
+ }
+
+
